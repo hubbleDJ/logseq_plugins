@@ -1,0 +1,14 @@
+{
+  "name": "logseq-customizer",
+  "version": "1.0.0",
+  "description": "Customize appearance of page references, tags, and links",
+  "main": "index.js",
+  "author": "Your Name",
+  "license": "MIT",
+  "logseq": {
+    "id": "logseq-customizer",
+    "title": "LogSeq Customizer",
+    "permissions": [],
+    "settings": true
+  }
+}
