@@ -1,0 +1,9 @@
+{
+  "name": "logseq-hide-prefix",
+  "version": "1.0.0",
+  "description": "Скрывает team/ и meet/ в ссылках и тегах",
+  "main": "index.js",
+  "logseq": {
+    "id": "logseq-hide-prefix"
+  }
+}
